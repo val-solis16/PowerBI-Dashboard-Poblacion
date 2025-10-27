@@ -3,7 +3,7 @@
 
 # 🌍 Dashboard de Población Global
 
-![Dashboard Preview](Capture1.jpg)
+![Dashboard Preview](Capture1.png)
 
 ## 📊 Descripción general
 Este proyecto presenta un **análisis visual de la población mundial** utilizando **Power BI**.  
