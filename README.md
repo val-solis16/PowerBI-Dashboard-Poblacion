@@ -52,6 +52,3 @@ Este proyecto fue creado con fines de **análisis exploratorio y visualización 
 ---
 
 ✨ *Creado por [Valeria Solís](https://github.com/val-solis16) | Data Analyst*
-
-
-## 📂 Estructura del repositorio
